@@ -1,4 +1,4 @@
-package com.xkyiliao.myapplication;
+package com.xkyiliao.dataapplication;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
